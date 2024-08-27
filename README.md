@@ -5,7 +5,7 @@
 -  ### I have leared basic lagguage such as _python ,linux ,mysql._ I am good at mysql.
 - 🌱
 - ####  **I’m currently learning IIT from _LAB_.**
-- 💞️ I’m looking for someone interested in IT industry to learn together. I hope we can creat a product from our team.
+- 💞️ I’m looking for [someone] interested in IT industry to learn together. I hope we can creat a product from our team.
 - 📫  tshu927@gmail.com
 - `RRGGBB ` 
 - 
