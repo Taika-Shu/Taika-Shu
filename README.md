@@ -7,7 +7,7 @@
 - ####  **I’m currently learning IIT from _LAB_.**
 - 💞️ I’m looking for someone interested in IT industry to learn together. I hope we can creat a product from our team.
 - 📫  tshu927@gmail.com
-- `#RRGGBB` HI
+- `RRGGBB ` 
 - 
 - https://www.youtube.com/watch?v=gXEzzHv77FA&t=7s
 
