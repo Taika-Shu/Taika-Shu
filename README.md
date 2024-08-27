@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taika-Shu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python ,linux
+- 👀 I’m interested in swimming ,hiking,dancing,ect.
+- 🌱 I’m currently learning python ,linux,mysql,ect.
 - 💞️ I’m looking to collaborate on ...
 - 📫 tshu927@gmail.com
 
