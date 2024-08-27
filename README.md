@@ -1,5 +1,6 @@
 - 👋
-- # ~~大家好，我是舒婷~~  Hi, I’m @Taika-Shu. I come from <sub>Shanghai</sub> China.
+- # ~~大家好，我是舒婷~~  Hi, I’m @Taika-Shu. I <sup>come/<sup> from <sub>Shanghai</sub> China.
+- 
 - 👀
 -  ##  I’m interested in swimming ,hiking,dancing,ect.
 -  ### I have leared basic lagguage such as _python ,linux ,mysql._ I am good at mysql.
