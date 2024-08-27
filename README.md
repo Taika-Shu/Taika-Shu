@@ -12,7 +12,7 @@
 - from table_1
 - where nane like %a%`
 - gender
-- [ ] F
+- [x] F
 - [ ] M
 - 
 - https://www.youtube.com/watch?v=gXEzzHv77FA&t=7s
