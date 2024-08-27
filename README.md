@@ -11,8 +11,9 @@
 - `select *
 - from table_1
 - where nane like %a%`
-- [ ] a
-- [ ] b
+- gender
+- [ ] F
+- [ ] M
 - 
 - https://www.youtube.com/watch?v=gXEzzHv77FA&t=7s
 
