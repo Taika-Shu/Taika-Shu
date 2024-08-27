@@ -9,7 +9,7 @@
 - 📫 `#ffffff` tshu927@gmail.com
 - ![ ]
 
-<!---![微信图片_20231022155558](https://github.com/user-attachments/assets/e70d4caa-0488-468a-9ff8-35224203cdea)
+<!---!(https://github.com/user-attachments/assets/e70d4caa-0488-468a-9ff8-35224203cdea)
 
 Taika-Shu/Taika-Shu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
